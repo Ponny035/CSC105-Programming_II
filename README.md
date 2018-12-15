@@ -1,5 +1,4 @@
 # Programming_II
-<img src="FB_IMG_1488074053555.jpg"/>
 Note in CSC105 class
 
 class I
